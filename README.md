@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="docs/banner.png" alt="Historical Traffic Routing Platform" width="100%" />
+
 # 🛰 Historical Traffic Routing Platform
 
 ### Time-aware routing & simulation over real road networks.
