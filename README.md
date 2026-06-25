@@ -169,3 +169,7 @@ historical-traffic-routing/
 📧 **arasghorbani9090@gmail.com** · 🔗 [LinkedIn](https://www.linkedin.com/in/aras-ghorbani-ab1a7b62)
 
 <div align="center"><sub>Public architecture & docs. Implementation is proprietary.</sub></div>
+
+## Source Code
+
+The production source code is maintained in a private repository. The portfolio repository demonstrates the architecture, features, and technical design. Source code can be shared for employment or collaboration opportunities under appropriate confidentiality terms.
